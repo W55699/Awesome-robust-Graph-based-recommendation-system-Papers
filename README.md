@@ -19,7 +19,7 @@ This repository aims to provide links to work about adversarial robustness and p
     * [3.5 Graph-based recommendation system robustness evaluation](#35-Graph-based-recommendation-system-robustness-revaluation)
 * [4. Privacy attack Papers](#4-Privacy-attack-Papers)
 * [5. Different privacy on Graph-based recommendation system Papers](#5-Different-privacy-on-Graph-based-recommendation-system-Papers)
-* [6. Federal learning on Graph-based recommendation system Papers](#6-Federal-learning-on-Graph-based-recommendation-system-Papers)
+* [6. Federated learning on Graph-based recommendation system Papers](#6-Federated-learning-on-Graph-based-recommendation-system-Papers)
 
 ## 0. Toolbox
 Github Repository: **DeepRobust** ([https://github.com/DSE-MSU/DeepRobust](https://github.com/DSE-MSU/DeepRobust))
