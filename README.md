@@ -18,7 +18,7 @@ This repository aims to provide links to work about adversarial robustness and p
     * [3.4 Graph purification](#34-Graph-purification)
     * [3.5 Graph-based recommendation system robustness evaluation](#35-Graph-based-recommendation-system-robustness-revaluation)
 * [4. Privacy attack on Graph-based recommendation system Papers](#4-Privacy-attack-Graph-based-recommendation-syste-mPapers)
-* [5. Different privacy on Graph-based recommendation system Papers](#5-Different-privacy-on-Graph-based-recommendation-system-Papers)
+* [5. Differential privacy on Graph-based recommendation system Papers](#5-Differential-privacy-on-Graph-based-recommendation-system-Papers)
 * [6. Federated learning on Graph-based recommendation system Papers](#6-Federated-learning-on-Graph-based-recommendation-system-Papers)
 
 ## 0. Toolbox
@@ -64,7 +64,7 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
 1. **Graph embedding for recommendation against attribute inference attacks.** WWW 2021. [[paper]](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449813) 
 1. **Black-box attacks on sequential recommenders via data-free model extraction..** RecSys  2021. [[paper]](https://arxiv.org/abs/2109.01165) [[code]](https://github.com/Yueeeeeeee/RecSys-Extraction-Attack)
 
-## 5. Different privacy on Graph-based recommendation system Papers
+## 5. Differential privacy on Graph-based recommendation system Papers
 1. **Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks.**[[paper]](http://www.cs.emory.edu/~jyang71/files/dpggen_sup.pdf)
 1. **Heterogeneous graph neural network for privacy-preserving recommendation.** ICDM 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/10027714/) [[code]](https://github.com/AixWinnie/HeteDP)
 ## 6. Federated learning on Graph-based recommendation system Papers
