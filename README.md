@@ -57,7 +57,7 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
 
 ### 3.5 Graph-based recommendation system robustness evaluation
 
-1. **Robust Preference-Guided Denoising for Graph based Social Recommendation.** WWW 2023 [[paper]](https://arxiv.org/abs/2303.08346) [[code]](https://github.com/tsinghua-fib-lab/Graph-Denoising-SocialRec)
+1. **Robust Preference-Guided Denoising for Graph-based Social Recommendation.** WWW 2023 [[paper]](https://arxiv.org/abs/2303.08346) [[code]](https://github.com/tsinghua-fib-lab/Graph-Denoising-SocialRec)
 
 ## 4. Privacy attack Papers
 1. **Debiasing Learning for Membership Inference Attacks Against Recommender Systems.** KDD 2022. [[paper]](https://arxiv.org/pdf/2206.12401.pdf) [[code]](https://github.com/WZH-NLP/DL-MIA-KDD-2022)
@@ -67,7 +67,7 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
 ## 5. Different privacy on Graph-based recommendation system Papers
 1. **Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks.**[[paper]](http://www.cs.emory.edu/~jyang71/files/dpggen_sup.pdf)
 1. **Heterogeneous graph neural network for privacy-preserving recommendation.** ICDM 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/10027714/) [[code]](https://github.com/AixWinnie/HeteDP)
-## 6. Federal learning on Graph-based recommendation system Papers
+## 6. Federated learning on Graph-based recommendation system Papers
 1. **Heterogeneous graph neural network for privacy-preserving recommendation.** ICML 2023. [[paper]](https://arxiv.org/abs/2303.05786) [[code]](https://github.com/maiph123/VerticalGNN)
 
    
