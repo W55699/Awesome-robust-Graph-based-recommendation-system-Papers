@@ -1,6 +1,7 @@
 # Awesome robust graph-based recommendation system Papers
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 This repository aims to provide links to work about adversarial robustness and privacy security on the Graph-based recommendation system.
 <div align=center><img src="https://www.cs.cit.tum.de/fileadmin/w00cfj/daml/nettack/nettack.png" width="500" /></div>
 
