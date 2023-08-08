@@ -5,10 +5,7 @@
 This repository aims to provide links to work about adversarial robustness and privacy security on Graph-based recommendation system
 <div align=center><img src="https://www.cs.cit.tum.de/fileadmin/w00cfj/daml/nettack/nettack.png" width="500" /></div>
 
-```
 
-
-```
 
 ### Contents
 
