@@ -17,7 +17,7 @@ This repository aims to provide links to work about adversarial robustness and p
     * [3.3 Adversarial robustness defend](#33-Adversarial-robustness-defend)
     * [3.4 Graph purification](#34-Graph-purification)
     * [3.5 Graph-based recommendation system robustness evaluation](#35-Graph-based-recommendation-system-robustness-revaluation)
-* [4. Privacy attack Papers](#4-Privacy-attack-Papers)
+* [4. Privacy attack on Graph-based recommendation system Papers](#4-Privacy-attack-Graph-based-recommendation-syste-mPapers)
 * [5. Different privacy on Graph-based recommendation system Papers](#5-Different-privacy-on-Graph-based-recommendation-system-Papers)
 * [6. Federated learning on Graph-based recommendation system Papers](#6-Federated-learning-on-Graph-based-recommendation-system-Papers)
 
@@ -59,7 +59,7 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
 
 1. **Robust Preference-Guided Denoising for Graph-based Social Recommendation.** WWW 2023 [[paper]](https://arxiv.org/abs/2303.08346) [[code]](https://github.com/tsinghua-fib-lab/Graph-Denoising-SocialRec)
 
-## 4. Privacy attack Papers
+## 4. Privacy attack on Graph-based recommendation system Papers
 1. **Debiasing Learning for Membership Inference Attacks Against Recommender Systems.** KDD 2022. [[paper]](https://arxiv.org/pdf/2206.12401.pdf) [[code]](https://github.com/WZH-NLP/DL-MIA-KDD-2022)
 1. **Graph embedding for recommendation against attribute inference attacks.** WWW 2021. [[paper]](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449813) 
 1. **Black-box attacks on sequential recommenders via data-free model extraction..** RecSys  2021. [[paper]](https://arxiv.org/abs/2109.01165) [[code]](https://github.com/Yueeeeeeee/RecSys-Extraction-Attack)
