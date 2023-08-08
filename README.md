@@ -12,8 +12,8 @@ This repository aims to provide links to work about adversarial robustness and p
 
 * [1. Survey Papers](#1-survey-papers)
 * [2. Graph-based recommendation system Papers](#2-graph-based-recommendation-papers) 
-* [3. Adversarial robustness Papers](Adversarial robustness  Papers)
-    * [3.1 White-box Attack & Grey-box Attack](#31-White-box Attack&Grey-box Attack)
+* [3. Adversarial robustness Papers](#3Adversarialr-obustness-Papers)
+    * [3.1 White-box Attack & Grey-box Attack](#31-White-box-Attack&Grey-box-Attack)
     * [3.2 Blak-box-attack](#32-blak-box-attack) 
     * [3.3 Adversarial robustness defend](#33-Adversarial-robustness-defend)
     * [3.4 Graph purification](#34-Graph purification)
